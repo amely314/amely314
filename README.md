@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amy Maldonado
 - 👀 I’m interested in Business Intelligence Analysis
-- 🌱 I’m currently learning Effective Communication techniques for the workspace 
+- 🌱 I recently completed an Effective Communication and Creative Writing certificates.
 - 💞️ I’m looking to collaborate on Business Analysis projects and visualizations. I would also like some more practice on SQL
 - ⚡ Fun fact:😊I am a previous Bakery Manager and pastry cook with over 10 years of experience. 
 
